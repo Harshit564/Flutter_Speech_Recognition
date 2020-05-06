@@ -1,6 +1,6 @@
-# speechrecognizer
+# Speech Recognizer
 
-A new Flutter application.
+A Simple Flutter application which takes input as a voice note and display that word/sentence to a string.
 
 ## Getting Started
 
